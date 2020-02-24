@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # Add Data and misc folder in local directory
-Data/*
-misc/*
-
+Data/
+misc/
+.vscode/
